@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "ardu-input"
+name = "py-macropad"
 version = "0.1.0"
 description = ""
 authors = ["Yassir Karroum <ukarroum17@gmail.com>"]
